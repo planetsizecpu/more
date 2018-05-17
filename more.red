@@ -1,4 +1,6 @@
-; More function for Red console
+Red []
+
+; More function 
 ;
 ; Use with block or file as argument
 more: function [data [any-type!]][
