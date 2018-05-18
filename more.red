@@ -1,7 +1,11 @@
-Red []
+Red [
+	Author:  "PlanetSizeCpu"
+	File: 	 %forms.red
+	Version: Under Development see below
+	Usage:  {Use for see files on console, do %more.red, then is ready}
+]
 
-; More function for console 
-;
+; Credit to @endo64 for ESC break
 ; Use with block or file as argument
 more: function [data [any-type!]][
 	y: system/console/size/y 
