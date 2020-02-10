@@ -1,7 +1,7 @@
 Red [
 	Author:  "PlanetSizeCpu"
 	File: 	 %forms.red
-	Version: Under Development see below
+	Version: 1.0
 	Usage:  {Use for see files on console, do %more.red, then is ready}
 ]
 
