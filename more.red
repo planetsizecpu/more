@@ -1,6 +1,6 @@
 Red [
 	Author:  "PlanetSizeCpu"
-	File: 	 %forms.red
+	File: 	 %more.red
 	Version: 1.0
 	Usage:  {Use for see files on console, do %more.red, then is ready}
 ]
