@@ -1,2 +1,2 @@
 # more
-"more" command for console, just make things easyer.
+"more" command for console, just make things easy.
